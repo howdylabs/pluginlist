@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Dialog Manager",
+        "require": "/plugins/cms/cms_plugin.js",
+        "description": "Design, build and manage scripts for your bot to use during conversations",
+        "version": 1.0
+    },
+    {
+        "name": "Web Adapter",
+        "require": "/plugins/botkit-adapter-web/plugin.js",
+        "description": "A plugin",
+        "version": 1.0
+    },
+    {
+        "name": "Slack Adapter",
+        "require": "/plugins/botkit-adapter-slack/plugin.js",
+        "description": "A plugin",
+        "version": 1.0
+
+    },
+    {
+        "name": "Console Adapter",
+        "require": "/plugins/console.js",
+        "description": "A plugin",
+        "version": 1.0
+
+    },
+    {
+        "name": "Humans",
+        "require": "/plugins/humans/humans_plugin.js",
+        "description": "A plugin",
+        "version": 1.0
+
+    },
+    {
+        "name": "Transcripts",
+        "require": "/plugins/transcripts/plugin.js",
+        "description": "A plugin",
+        "version": 1.0
+
+    },
+    {
+        "name": "Simple Homepage",
+        "require": "/plugins/index.js",
+        "description": "A plugin",
+        "version": 1.0
+    }
+]
