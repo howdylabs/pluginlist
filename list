@@ -6,6 +6,13 @@
         "version": 1.0
     },
     {
+        "name": "Botkit Cloud Services",
+        "require":"botkit-cloud",
+        "install":"howdylabs/botkit-cloud",
+        "description":"Use scripts from Botkit Studio, and enable botkit.studio hooks and api methods",
+        "version": 1.0
+    },
+    {
         "name": "Web Adapter",
         "require": "botkit-web",
         "install":"howdylabs/botkit-web",
