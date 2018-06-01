@@ -20,7 +20,8 @@
     },
     {
         "name": "Console Adapter",
-        "require": "/plugins/console.js",
+        "require": "botkit-console",
+        "install": "howdylabs/botkit-console",
         "description": "A plugin",
         "version": 1.0
 
