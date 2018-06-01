@@ -21,8 +21,9 @@
     },
     {
         "name": "Slack Adapter",
-        "require": "/plugins/botkit-adapter-slack/plugin.js",
-        "description": "A plugin",
+        "require": "botkit-slack",
+        "install": "howdylabs/botkit-slack",
+        "description": "Connect Botkit to Slack",
         "version": 1.0
 
     },
