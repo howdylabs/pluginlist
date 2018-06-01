@@ -49,11 +49,5 @@
         "description": "Capture and display transcripts",
         "version": 1.0
 
-    },
-    {
-        "name": "Simple Homepage",
-        "require": "/plugins/index.js",
-        "description": "A plugin",
-        "version": 1.0
     }
 ]
