@@ -29,15 +29,17 @@
     },
     {
         "name": "Humans",
-        "require": "/plugins/humans/humans_plugin.js",
-        "description": "A plugin",
+        "require": "botkit-humans",
+        "install": "howdylabs/botkit-humans",
+        "description": "Remember things about humans who talk to the bot",
         "version": 1.0
 
     },
     {
         "name": "Transcripts",
-        "require": "/plugins/transcripts/plugin.js",
-        "description": "A plugin",
+        "require": "botkit-transcripts",
+        "install": "howdylabs/botkit-transcripts",
+        "description": "Capture and display transcripts",
         "version": 1.0
 
     },
