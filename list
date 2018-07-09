@@ -1,7 +1,8 @@
 [
     {
         "name": "Dialog Manager",
-        "require": "/plugins/cms/cms_plugin.js",
+        "require": "botkit-dialogs",
+        "install":"howdylabs/botkit-dialogs",
         "description": "Design, build and manage scripts for your bot to use during conversations",
         "version": 1.0
     },
